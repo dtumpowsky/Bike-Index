@@ -6,9 +6,6 @@
 ##### Description
 _This web applications allows users to create a todo lists_
 
-##### Setup/Installation Requirements
-* .NET
-* C#
 ##### Known Bugs
 _So far there are no bugs_
 
